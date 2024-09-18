@@ -7,6 +7,13 @@ Kaggle : https://www.kaggle.com/code/turkeratac/bitcoinanalysisai
 
 Dataset : https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024/data?select=btc_1h_data_2018_to_2024-09-06.csv
 
+#
+
+# Top 10 Highest Bitcoin Opening Prices (2018-2024):
+
+<img width="434" alt="Ekran Resmi 2024-09-18 14 01 58" src="https://github.com/user-attachments/assets/ac4c07ea-c797-4fe0-a773-55c3c1a0b92d">
+
+
 # 
 
 # Unsupervised Learning Algorithms
