@@ -13,6 +13,13 @@ Dataset : https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-dat
 
 <img width="434" alt="Ekran Resmi 2024-09-18 14 01 58" src="https://github.com/user-attachments/assets/ac4c07ea-c797-4fe0-a773-55c3c1a0b92d">
 
+#
+
+# Correlation Matrix
+
+A correlation matrix shows how different variables are related to each other. In Bitcoin analysis, it helps us see which factors, like price and volume, move together or in opposite directions. This is useful for understanding patterns and building better prediction models.
+
+<img width="1097" alt="Ekran Resmi 2024-09-18 14 02 31" src="https://github.com/user-attachments/assets/8ed89f39-53ae-49cf-9f4a-8706b199ace9">
 
 # 
 
