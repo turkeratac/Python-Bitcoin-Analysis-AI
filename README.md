@@ -11,7 +11,7 @@ Dataset : https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-dat
 
 # Top 10 Highest Bitcoin Opening Prices and Times (2018-2024):
 
-<img width="521" alt="Ekran Resmi 2024-09-18 20 12 22" src="https://github.com/user-attachments/assets/79607f19-2288-4df5-954c-5dc642eef196">
+<img width="523" alt="Ekran Resmi 2024-09-18 20 13 57" src="https://github.com/user-attachments/assets/8d9c814e-2179-4bc1-ab47-51fa4f931b3a">
 
 #
 
