@@ -7,6 +7,18 @@ Kaggle : https://www.kaggle.com/code/turkeratac/bitcoinanalysisai
 
 Dataset : https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024/data?select=btc_1h_data_2018_to_2024-09-06.csv
 
+# Which Python libraries did you use in this project?
+
+I used the Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn libraries in my project. These libraries were used for data analysis, model training, and visualization.
+
+# Which models did you use?
+
+I used Linear Regression and Decision Tree for supervised learning, and KMeans and DBSCAN for unsupervised learning.
+
+# What do the differences in results indicate?
+
+Supervised learning models predict a target variable, while unsupervised learning models find structural relationships by grouping data. The performance difference depends on the dataset and problem. Linear Regression was more successful due to the linear nature of the target variable.
+
 #
 
 # Top 10 Highest Bitcoin Opening Prices and Times (2018-2024):
