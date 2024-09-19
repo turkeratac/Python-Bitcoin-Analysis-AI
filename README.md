@@ -57,4 +57,10 @@ After training and testing, Linear Regression has proven to be the best-performi
 
 # Loss Calculation for Regression
 
+Model Evaluation - Loss Calculation for Regression
+
+Mean Squared Error (MSE) measures the average of the squared differences between predicted and actual values, giving more weight to larger errors.
+
+Mean Absolute Error (MAE) calculates the average of the absolute differences, providing a more straightforward measure of error without emphasizing large deviations.
+
 <img width="699" alt="Ekran Resmi 2024-09-15 16 14 02" src="https://github.com/user-attachments/assets/3e51a55d-615a-4465-816f-e331e70c1601">
